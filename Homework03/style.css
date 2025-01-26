@@ -1,0 +1,15 @@
+p{
+    background-color: rgba(184, 184, 85, 0.3);
+    border: 2px solid red;
+    padding: 5px;
+    width: 40%;
+    text-align: left;
+}
+span{
+    border: 2px solid blue;
+    padding: 1px;
+}
+
+img{
+    margin: 0px 100% 0px 0px;
+}
