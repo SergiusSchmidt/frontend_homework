@@ -1,0 +1,74 @@
+.bww_logo {
+    width: 28px;
+    height: 28px;
+}
+
+.navigation-link {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 12px;
+    font-family: "Oswald", sans-serif;
+}
+
+a:hover {
+    color: red;
+}
+
+.navigation-menu {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding: 5px;
+}
+
+main {
+    background-color: black;
+    text-align: center;
+
+}
+
+body {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.wal-logo {
+    width: 160px;
+    position: relative;
+    top: 60px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.container-child1 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style-type: none;
+    flex-direction: row;
+    width: 100%;
+    margin: 20px;
+
+}
+.line{
+    background-color: gray;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    color: #fff;
+
+}
